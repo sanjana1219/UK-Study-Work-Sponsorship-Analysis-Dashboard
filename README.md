@@ -56,11 +56,7 @@ Project Files
 
 This repository contains:
 
-•	🗂 Power BI Dashboard (.pbix)
-
-•	Project Report (PDF)
-
-•	Project Explanation Video  -
+•	Project Explanation Video -	🗂
 https://drive.google.com/file/d/1NH61nDTpU3OUQTN23-js5E8Ef-hFKUVd/view
 
 
